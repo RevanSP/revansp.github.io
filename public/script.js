@@ -1,1 +1,0 @@
-document.getElementById("copyright").innerHTML = "Copyright © " + new Date().getFullYear() + " - All rights reserved by ReiivanTheOnlyOne .";
